@@ -1,3 +1,4 @@
+
 ## Estudo de Caso: Otimização de Vendas Através de Análise de Dados
 
 ### Contexto
@@ -26,9 +27,10 @@ A implementação do dashboard trouxe diversos benefícios para a empresa, inclu
 - **Melhoria da tomada de decisão:** A disponibilidade de dados precisos e atualizados permitiu que a equipe de gestão tomasse decisões mais estratégicas e baseadas em evidências.
 - **Aumento da satisfação dos clientes:** A personalização da oferta de produtos, baseada nas preferências dos clientes identificadas no dashboard, contribuiu para aumentar a satisfação dos clientes e a fidelização da marca.
 
-![Página1]!(Imagens Dashboards\Pagina1- Relatório de vendas.png)
-![Página2](Imagens Dashboards\Pagina2- Relatório de vendas.png)
-![Página3](Imagens Dashboards\Pagina 3- Relatório de vendas.png)
+  
+![Pagina1- Relatório de vendas](https://github.com/user-attachments/assets/36397502-a841-4efa-a3e5-fdea3ec35de0)
+![Pagina2- Relatório de vendas](https://github.com/user-attachments/assets/0cb64252-9916-4b1c-8198-083934e827de)
+![Pagina 3- Relatório de vendas](https://github.com/user-attachments/assets/a50aea00-4e44-459a-b80a-35cd7adb0a23)
 
 ### Próximos Passos
 - **Integração com outras fontes de dados:** Integrar o dashboard com outras fontes de dados, como CRM e ERP, para obter uma visão mais completa do negócio.
